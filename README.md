@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://kaizarthwe.com"><img src="https://img.shields.io/badge/Portfolio-kaizarthwe.com-a3e635?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/khine-zar-thwe-282kzt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khine-zar-thwe-282kzt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fukuroo282@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### About me
+### 🌱 About me
 
 - 🎓 Diploma in Information Technology (Software and Applications), Singapore Polytechnic
 - 💼 Former Junior AI Developer at Reachfield IT Solutions (Apr 2025 to Apr 2026); now freelancing on test engineering and Java projects
@@ -18,7 +18,7 @@
 - 🌏 Interested in multilingual AI, especially English and Burmese
 - 🏆 1st place, SP Energized Hackathon 2025 (GlucoSG)
 
-### Featured projects
+### 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -30,25 +30,40 @@
 | [**Shopify Hearth Coffee**](https://github.com/khine282/shopify-hearth-coffee) | Custom Shopify theme with a serverless recommender API | Liquid, JavaScript, Serverless |
 | **Code-to-Cloud Architecture Visualizer** | Turns code into cloud architecture diagrams with an LLM | AWS Lambda, API Gateway, Bedrock |
 
-### Tech stack
+### 🛠️ Tech stack
 
-**AI and data:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,react,nodejs,fastapi,tensorflow,opencv&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,supabase,sqlite,selenium,git,github,postman,vscode,linux&theme=dark" />
+</p>
 
-**Backend and web:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+### 📊 GitHub analytics
 
-**Cloud and DevOps:** ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khine282&theme=dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E" />
+</p>
 
-**Testing:** ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF7F00) ![Allure](https://img.shields.io/badge/Allure_Reports-FF6347)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khine282&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=C9D1D9&hide_rank=true&hide=issues" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khine282&layout=compact&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=C9D1D9&hide=liquid,css,html" height="165" />
+</p>
 
-### Currently
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khine282&bg_color=0D1117&color=C9D1D9&title_color=A3E635&line=A3E635&point=FFFFFF&area=true&area_color=A3E635&hide_border=true&custom_title=Kai's%20Contribution%20Graph" />
+</p>
+
+### 🐍 Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khine282/khine282/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khine282/khine282/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/khine282/khine282/output/github-snake.svg" />
+  </picture>
+</p>
+
+### 🔭 Currently
 
 - 🔨 Rebuilding SG Newcomer Guide step by step, one branch per stage
 - 📚 Studying for AWS SAA-C03 and GitHub GH-600
 - 🤝 Open to AI engineer, LLM and full-stack roles in Singapore
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khine282&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khine282&layout=compact&hide_border=true&theme=transparent" height="160" />
-</p>
