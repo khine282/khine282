@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in the making · LLMs, RAG and cloud · Singapore</h3>
 
 <p align="center">
-  <a href="https://kaizarthwe.com"><img src="https://img.shields.io/badge/Portfolio-kaizarthwe.com-a3e635?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://kaizarthwe.com"><img src="https://img.shields.io/badge/Portfolio-kaizarthwe.com-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/khine-zar-thwe-282kzt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fukuroo282@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -40,16 +40,16 @@
 ### 📊 GitHub analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khine282&theme=dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=khine282&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=FB7185&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=8B949E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khine282&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=C9D1D9&hide_rank=true&hide=issues" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khine282&layout=compact&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=C9D1D9&hide=liquid,css,html" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khine282&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=7DD3FC&text_color=C9D1D9&hide_rank=true&hide=issues" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khine282&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&hide=liquid,css,html" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khine282&bg_color=0D1117&color=C9D1D9&title_color=A3E635&line=A3E635&point=FFFFFF&area=true&area_color=A3E635&hide_border=true&custom_title=Kai's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khine282&bg_color=0D1117&color=C9D1D9&title_color=7DD3FC&line=7DD3FC&point=FFFFFF&area=true&area_color=7DD3FC&hide_border=true&custom_title=Kai's%20Contribution%20Graph" />
 </p>
 
 ### 🐍 Contribution graph
