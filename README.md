@@ -26,7 +26,7 @@
 | [**Helpdesk Triage Bot**](https://github.com/khine282/helpdesk-triage) · [live demo](https://supportdesk-triage-kai.streamlit.app) | Multilingual IT helpdesk assistant with Burmese support | Python, Streamlit, Gemini API |
 | [**Banking QA Automation Suite**](https://github.com/khine282/banking-app-e2e-test-suite) · [live report](https://khine282.github.io/banking-app-e2e-test-suite) | End-to-end test suite with CI and Allure reporting | Java 17, Selenium, TestNG, Maven, GitHub Actions |
 | [**GlucoSG**](https://github.com/ProjektKevin/Energizer-Hackathon-2025) | Nutrition tracking app, taken to production; 1st place, SP Energized Hackathon 2025 | React, Node.js, Supabase |
-| [**EmotionVision**](https://github.com/khine282/emotion-detection) | Real-time facial emotion recognition API | TensorFlow, OpenCV, FastAPI |
+| [**EmotionVision**](https://github.com/khine282/emotionvision) | Real-time facial emotion recognition API | TensorFlow, OpenCV, FastAPI |
 | [**Shopify Hearth Coffee**](https://github.com/khine282/shopify-hearth-coffee) | Custom Shopify theme with a serverless recommender API | Liquid, JavaScript, Serverless |
 | **Code-to-Cloud Architecture Visualizer** | Turns code into cloud architecture diagrams with an LLM | AWS Lambda, API Gateway, Bedrock |
 
