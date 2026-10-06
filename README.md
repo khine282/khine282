@@ -22,10 +22,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**SG Newcomer Guide**](https://github.com/khine282/sg_newcomer_guide) |  RAG system answering "living in Singapore" questions in English or Burmese, with RAG-triad evaluation · [live demo](https://huggingface.co/spaces/kZarT/sg-newcomer-guide), with the stack Python, LangChain, Chroma, Docker, Hugging Face | Python, LangChain, Gemini, RAG evaluation,  rag, llm, langchain, evaluation, docker, multilingual |
+| [**SG Newcomer Guide**](https://github.com/khine282/sg_newcomer_guide) · [live demo](https://huggingface.co/spaces/kZarT/sg-newcomer-guide) | RAG system answering "living in Singapore" questions in English or Burmese, with cited sources and RAG-triad evaluation | Python, LangChain, Chroma, Gemini, Docker, Hugging Face |
 | [**Helpdesk Triage Bot**](https://github.com/khine282/helpdesk-triage) | Multilingual IT helpdesk assistant with Burmese support · [live demo](https://supportdesk-triage-kai.streamlit.app) | Python, Streamlit, Gemini API |
 | [**Banking QA Automation Suite**](https://github.com/khine282/banking-app-e2e-test-suite) | End-to-end test suite with CI and Allure reporting · [live report](https://khine282.github.io/banking-app-e2e-test-suite) | Java 17, Selenium, TestNG, Maven, GitHub Actions |
-| [**GlucoSG**](https://github.com/ProjektKevin/Energizer-Hackathon-2025) | Nutrition tracking app, taken to production; 1st place, SP Energized Hackathon 2025 | React, Node.js, Supabase |
+| [**GlucoSG**](https://github.com/ProjektKevin/Energizer-Hackathon-2025) | Team nutrition-tracking app with an AI voice assistant; 1st place, SP Energized Hackathon 2025. **I built:** food search and logging, statistics, profile and allergy pages, user registration | React, Express, PostgreSQL, Supabase, JWT |
 | [**EmotionVision**](https://github.com/khine282/emotionvision) | Real-time facial emotion recognition API | TensorFlow, OpenCV, FastAPI |
 | [**Shopify Hearth Coffee**](https://github.com/khine282/shopify-hearth-coffee) | Custom Shopify theme with a serverless recommender API | Liquid, JavaScript, Serverless |
 | [**Code-to-Cloud Architecture Visualizer**](https://github.com/khine282/code-to-cloud) | Turns code into cloud architecture diagrams with an LLM | AWS Lambda, API Gateway, Bedrock |
