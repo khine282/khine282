@@ -22,7 +22,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**SG Newcomer Guide**](https://github.com/khine282/sg_newcomer_guide) | RAG chatbot answering "living in Singapore" questions from official sources, in English or Burmese | Python, LangChain, Gemini, RAG evaluation |
+| [**SG Newcomer Guide**](https://github.com/khine282/sg_newcomer_guide) |  RAG system answering "living in Singapore" questions in English or Burmese, with RAG-triad evaluation · [live demo](https://huggingface.co/spaces/kZarT/sg-newcomer-guide), with the stack Python, LangChain, Chroma, Docker, Hugging Face | Python, LangChain, Gemini, RAG evaluation,  rag, llm, langchain, evaluation, docker, multilingual |
 | [**Helpdesk Triage Bot**](https://github.com/khine282/helpdesk-triage) · [live demo](https://supportdesk-triage-kai.streamlit.app) | Multilingual IT helpdesk assistant with Burmese support | Python, Streamlit, Gemini API |
 | [**Banking QA Automation Suite**](https://github.com/khine282/banking-app-e2e-test-suite) · [live report](https://khine282.github.io/banking-app-e2e-test-suite) | End-to-end test suite with CI and Allure reporting | Java 17, Selenium, TestNG, Maven, GitHub Actions |
 | [**GlucoSG**](https://github.com/ProjektKevin/Energizer-Hackathon-2025) | Nutrition tracking app, taken to production; 1st place, SP Energized Hackathon 2025 | React, Node.js, Supabase |
