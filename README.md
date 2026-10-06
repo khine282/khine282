@@ -64,6 +64,5 @@
 
 ### 🔭 Currently
 
-- 🔨 Rebuilding SG Newcomer Guide step by step, one branch per stage
-- 📚 Studying for AWS SAA-C03 and GitHub GH-600
+-  🚀 SG Newcomer Guide is live: deployed, evaluated, documented
 - 🤝 Open to AI engineer, LLM and full-stack roles in Singapore
