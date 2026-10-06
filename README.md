@@ -28,7 +28,7 @@
 | [**GlucoSG**](https://github.com/ProjektKevin/Energizer-Hackathon-2025) | Nutrition tracking app, taken to production; 1st place, SP Energized Hackathon 2025 | React, Node.js, Supabase |
 | [**EmotionVision**](https://github.com/khine282/emotionvision) | Real-time facial emotion recognition API | TensorFlow, OpenCV, FastAPI |
 | [**Shopify Hearth Coffee**](https://github.com/khine282/shopify-hearth-coffee) | Custom Shopify theme with a serverless recommender API | Liquid, JavaScript, Serverless |
-| **Code-to-Cloud Architecture Visualizer** | Turns code into cloud architecture diagrams with an LLM | AWS Lambda, API Gateway, Bedrock |
+| [**Code-to-Cloud Architecture Visualizer**](https://github.com/khine282/code-to-cloud) | Turns code into cloud architecture diagrams with an LLM | AWS Lambda, API Gateway, Bedrock |
 
 ### 🛠️ Tech stack
 
